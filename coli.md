@@ -1,0 +1,1 @@
+Gue masih noob kawan!!

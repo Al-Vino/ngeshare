@@ -1,2 +1,2 @@
 # ngeshare
-Share Coli and Colmex
+Yah untuk share posts lh apalagi?

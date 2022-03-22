@@ -18,5 +18,6 @@ $ git clone https://github.com/Al-Vino/ngeshare
 $ cd ngeshare
 
 # Deff Masuk
-$ python ngeshare.py
+$ python ngentod.py
+
 🌟KASIH BINTANG WOY🌟

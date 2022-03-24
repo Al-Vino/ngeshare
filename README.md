@@ -16,7 +16,7 @@ https://f-droid.org/repo/com.termux_117.apk
 
 ✓ apt install python2 -y
 
-✓ pip install requests bs4 futures mechanize
+✓ pip install requests bs4 future mechanize
 
 ✓ python3 -m pip install --upgrade pip
 

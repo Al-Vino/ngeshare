@@ -4,6 +4,10 @@ Jangan Lupa kasih bintang di github ku
 Ingat Kalau mau make tools ini Harus Coli dlu,
 Klo belum Coli pasti ngga Workk awokokokwkoekwok 
 
+# PAKE DOANG NGGA FOLLOW,KONTOL LO
+
+![deskripsi gambar](https://i.ibb.co/JmYW4Nf/Screenshot-2022-03-25-09-41-55-233-com-termux.png)
+
 # Bahan-bahan
 
 👇 Download apk termuxnya disini 👇

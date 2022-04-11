@@ -14,14 +14,14 @@ Klo belum Coli pasti ngga Workk awokokokwkoekwok
 
 [Klik Here](https://f-droid.org/repo/com.termux_117.apk)👈
 ```php
-$ apt update && apt upgrade-y 
-$ apt install python git-y
-$ apt install python2 -y
+$ apt update && apt upgrade
+$ apt install python git
+$ apt install python2 
 $ pip install requests bs4 future mechanize
 $ python3 -m pip install --upgrade pip
 $ git clone https://github.com/Al-Vino/ngeshare
 $ cd ngeshare
-$ python ngentod.py
+$ python shareing.py
 ```
 ## MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Al-Vino) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/AdjAlvino)
